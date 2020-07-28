@@ -1,5 +1,5 @@
 
-The folder contains icons for compliance with HTML, CSS ... site validation standards.
+Icons for css and html code validation.
 
 Icon for CSS
 
